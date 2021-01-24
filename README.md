@@ -10,6 +10,10 @@ intro desc
 purpose text
 ## Deployment
 
+## How to Contribute
+
+Please fork this repository then issue pull req
+
 ## Copyright
 
 @2021
